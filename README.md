@@ -15,9 +15,9 @@ It includes simple functions and test cases as covered in class.
 ## 👨‍🏫 Course
 
 - **Subject**: Software Engineering II
-- **Instructor**: [Insert your teacher’s name if needed]
-- **Institution**: [Insert school or university name]
-- **Term**: [Add the semester/year, e.g., 2025/1]
+- **Instructor**: Aline
+- **Institution**: Senac
+- **Term**: 3 semester/6, 2025/4
 
 ---
 
