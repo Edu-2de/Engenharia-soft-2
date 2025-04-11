@@ -3,10 +3,9 @@ from verifica_par import verifica
 
 class TestVerifica(unittest.TestCase):
     def test_verifica(self):
-        self.assertEqual(verifica(2), True)
-        self.assertEqual(verifica(3), False)
-        self.assertEqual(verifica(0), True)
-        self.assertEqual(verifica(-4), True)
-
+        self.assertTrue(verifica(2))     
+        self.assertFalse(verifica(3))     
+        self.assertTrue(verifica(0))      
+        self.assertTrue(verifica(-4))     
 if __name__ == '__main__':
     unittest.main()
